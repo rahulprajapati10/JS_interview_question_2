@@ -1,7 +1,7 @@
 
 
 
-//  given an array , find out total number of odd and even
+//  given an array , find out total number of even and odd number
 
 let arr = [1, 5, 6, 3, 8, 9, 7, 2];
 
